@@ -1,0 +1,11 @@
+
+.next
+_next
+
+
+node_modules
+
+
+.next
+.env
+.env.local
